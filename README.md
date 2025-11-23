@@ -5,10 +5,6 @@
 
 ---
 
-Here is the rewritten content **in the exact same format as your document**, but fully original:
-
----
-
 ## **2. Food Menu Nutritional Chart**
 
 ### **Introduction**
